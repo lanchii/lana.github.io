@@ -3,11 +3,32 @@
 <head>
     <meta charset="UTF-8">
     <title>Slide_Show</title>
-    <link rel="stylesheet" type="text/css" href="css.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
     <script src="script.js"></script>
 </head>
 <body>
 
-    <h1>Hallo Welt</h1>
+    <nav>
+        <a href="homepage.html">Home</a>
+        <a href="unterseite2.html">anderes</a>
+    </nav>
+    <h1>BIG CITY'S</h1>
+
+    <!--images-->
+    <div id="wrapper">
+
+    <div class="image_outside"><img src="./img/city4.jpeg" alt="galeriebild"></div>
+    <div class="image-middle"><img src="./img/city5.jpeg" alt="galeriebild"></div>
+    <div id="big-image"><img src="./img/city1.jpeg" alt="galeriebild"></div>
+    <div class="image-middle"><img src="./img/city2.jpeg" alt="galeriebild"></div>
+    <div class="image_outside"><img src="./img/city3.jpeg" alt="galeriebild"></div>
+
+    </div>
+
+    <!--buttons-->
+    <div id="buttonBox">
+    <button onclick="changeImagesLeft()" id="button_left"><p> < </p></button>
+    <button onclick="changeImagesRight()" id="button_right"><p> > </p></button>
+    </div>
 </body>
 </html>
