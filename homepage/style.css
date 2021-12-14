@@ -98,3 +98,6 @@ img{
 .image_outside:hover{
     opacity: 100%;
 }
+iframe{
+    margin-left: 32%;
+}
