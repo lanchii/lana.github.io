@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../../MEDTW/Java-Script/Bilder-Collage(vollautomatisch)/.idea/Java-Script.iml" filepath="$PROJECT_DIR$/../../../../MEDTW/Java-Script/Bilder-Collage(vollautomatisch)/.idea/Java-Script.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../MEDTW/Java-Script/Themenseite/.idea/Themenseite.iml" filepath="$PROJECT_DIR$/../../../../MEDTW/Java-Script/Themenseite/.idea/Themenseite.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/homepage.iml" filepath="$PROJECT_DIR$/.idea/homepage.iml" />
     </modules>
   </component>
